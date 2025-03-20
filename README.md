@@ -1,11 +1,17 @@
-|   Fadil Aditya Adzima        |       312310617       |
-|-----------------------|-----------------------|
-|    TI.23.A.6          |   PEMROGRAMAN WEB     |
+## Web Simple CRUD with CodeIgniter
+
+Project Simple CRUD Web with **CodeIgniter** adalah aplikasi web sederhana yang berfungsi untuk melakukan pengelolaan data menggunakan metode **CRUD (Create, Read, Update, Delete)**. Dibangun dengan **framework CodeIgniter 4**, project ini bertujuan untuk memberikan pemahaman dasar kepada pengguna tentang bagaimana membuat aplikasi web dinamis yang dapat berinteraksi dengan database. <br> <br>
 
 
-## LAB 11 WEB
+| Variable           |             Isi            |
+| -------------------|----------------------------|
+| **Nama**           |     Fadil Aditya Adzima    |
+| **NIM**            |          312310617         |
+| **Kelas**          |          TI.23.A.6         |
+| **Mata Kuliah**    |    Pemrograman Web 2    |
+| **Dosen Pengampu** | Agung Nugroho S.Kom., M.Kom.|
 
-Project Simple CRUD Web with **CodeIgniter** adalah aplikasi web sederhana yang berfungsi untuk melakukan pengelolaan data menggunakan metode **CRUD (Create, Read, Update, Delete)**. Dibangun dengan **framework CodeIgniter 4**, project ini bertujuan untuk memberikan pemahaman dasar kepada pengguna tentang bagaimana membuat aplikasi web dinamis yang dapat berinteraksi dengan database.
+<br>
 
 ## LANGKAH - LANGKAH PRAKTIKUM
 

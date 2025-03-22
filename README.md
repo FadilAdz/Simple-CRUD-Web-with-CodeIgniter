@@ -40,8 +40,8 @@ Klik **PHP.ini**
 
 Aktifkan beberpa extension seperti contoh di atas
 
-## 3). KEMUDIAN BUAT FOLDER BARU DENGAN NAMA **lab11_php_ci**
-![folder-lab11_php_ci](img/folderlab11.png)
+## 3). KEMUDIAN BUAT FOLDER BARU DENGAN NAMA **lab11_ci**
+![folder-lab11_ci](img/folderlab11.png)
 
 **PENJELASAN**
 
